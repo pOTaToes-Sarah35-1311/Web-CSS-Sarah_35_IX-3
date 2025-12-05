@@ -1,0 +1,41 @@
+body {
+background-image:
+url(Screenshot\ 2025-11-28\ 203703.png);
+}
+
+h2{
+    background-color: rgb(198, 172, 3);
+}
+
+h1{
+color: black;
+}
+
+h1{
+    background-color: rgb(142, 172, 149);
+}
+
+p{
+    color:black;
+}
+
+p{
+    background-color: rgb(234, 205, 240);
+}
+
+li{
+    color:black;
+}
+
+li{
+    background-color: gold;
+}
+
+body {
+  text-align: center;
+}
+
+ul{
+    list-style-type: disc;
+    list-style-position: inside;
+}
